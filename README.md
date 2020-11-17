@@ -1,4 +1,6 @@
-# Cracking the Coding Interview 6th Edition - JavaScript
+# 破解编码面试第六版 - JavaScript
+
+> Cracking the Coding Interview 6th Edition - JavaScript
 
 ## Instructions
 
@@ -137,6 +139,7 @@
 ## Test
 
 ```sh
-npm test
+$ npm test
+
 ```
 
